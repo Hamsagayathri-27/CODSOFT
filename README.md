@@ -1,53 +1,36 @@
-# Calculator
-Designed a simple calculator using python
+# CODSOFT Internship - Tech Domain
 
-# Simple Calculator – Task 2 (CodSoft Internship)
-
-This repository contains my submission for *Task 2* of the *CodSoft Python Programming Internship*.
-
-In this task, I have built a *simple command-line calculator* using Python that performs basic arithmetic operations such as
-addition, subtraction, multiplication, division, and exponentiation.
-
+This repository contains the tasks completed during the CODSOFT Internship in . Each task is placed in a separate folder and includes its source code and related details.
 
 ---
 
-## Project Overview
+## Task 1: Calculator
 
-This calculator takes two numerical inputs from the user and asks for the desired operation. Based on the input,
-it performs the corresponding calculation using conditional statements (if-elif-else) and prints the result.
+*Objective:*  
+Design a simple calculator that performs basic arithmetic operations.
 
-If an invalid operation is entered, the program shows an error message to guide the user.
+*Description:*  
+The program prompts the user to input two numbers and select an arithmetic operation (addition, subtraction, multiplication, or division). It then performs the selected operation and displays the result.
 
----
-
-## Features
-
-- Takes two numbers from the user
-- Supports five operations:
-  - Addition (+)
-  - Subtraction (-)
-  - Multiplication (*)
-  - Division (/)
-  - Exponentiation (**)
-- Displays the calculated result
-- Handles invalid operations gracefully
+*Technologies Used:*  
+- Python
 
 ---
 
-## Technologies Used
+## Task 2: Password Generator
 
-- If-elif-else conditional statements
-- Command-line interface (CLI)
+*Objective:*  
+Create a password generator application that produces strong and random passwords.
+
+*Description:*  
+The program prompts the user to enter the desired length of the password. It then generates a password using a mix of uppercase letters, lowercase letters, digits, and special characters, and displays it on the screen.
+
+*Functionality:*
+- Prompts user to enter desired password length
+- Generates a random password using secure character sets
+- Displays the generated password
+
+*Technologies Used:*  
+- Python
 
 ---
-
-## How to Run
-
-1. Make sure *Python* is installed on your system.
-2. Clone this repository or download the calculator.py file.
-3. Open your terminal or code editor (like VS Code).
-4. Navigate to the folder containing the file.
-5. Run the following command:
-
-```bash
-python calculator.py
