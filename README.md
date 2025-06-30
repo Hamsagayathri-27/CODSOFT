@@ -1,4 +1,4 @@
-# CODSOFT Internship - Tech Domain
+# CODSOFT Internship 
 
 This repository contains the tasks completed during the CODSOFT Internship in . Each task is placed in a separate folder and includes its source code and related details.
 
