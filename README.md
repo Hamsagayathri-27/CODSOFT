@@ -44,12 +44,12 @@ Develop an interactive Rock, Paper, Scissors game where the user competes agains
 The program allows the user to play the classic Rock, Paper, Scissors game against the computer. The computer randomly selects one of the three options, and the winner is determined based on standard game rules. The user can play multiple rounds.
 
 *Functionality*
-	•	Prompts the user to enter their choice (Rock, Paper, or Scissors)
-	•	Generates a random choice for the computer
-	•	Compares both choices and displays the winner
-	•	Allows the user to continue or exit the game
+- Prompts the user to enter their choice (Rock, Paper, or Scissors)
+- Generates a random choice for the computer
+- Compares both choices and displays the winner
+- Allows the user to continue or exit the game
 
 *Technologies Used*
-	•	Python
+- Python
 
  ---
