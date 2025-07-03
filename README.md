@@ -12,6 +12,18 @@ Design a simple calculator that performs basic arithmetic operations.
 *Description:*  
 The program prompts the user to input two numbers and select an arithmetic operation (addition, subtraction, multiplication, or division). It then performs the selected operation and displays the result.
 
+*Functionality:*
+ - Prompts the user to enter two numbers
+ - Asks the user to select an arithmetic operation:
+	-	Addition (+)
+	-	Subtraction (−)
+	-	Multiplication (×)
+	-	Division (÷)
+   and more....
+	-	Performs the selected operation
+	-	Displays the result
+	-	Handles invalid inputs and division by zero
+
 *Technologies Used:*  
 - Python
 
@@ -37,13 +49,13 @@ The program prompts the user to enter the desired length of the password. It the
 
 ## Task 3: Rock, Paper, Scissors
 
-*Objective*
+*Objective:*
 Develop an interactive Rock, Paper, Scissors game where the user competes against the computer.
 
-*Description*
+*Description:*
 The program allows the user to play the classic Rock, Paper, Scissors game against the computer. The computer randomly selects one of the three options, and the winner is determined based on standard game rules. The user can play multiple rounds.
 
-*Functionality*
+*Functionality:*
 - Prompts the user to enter their choice (Rock, Paper, or Scissors)
 - Generates a random choice for the computer
 - Compares both choices and displays the winner
